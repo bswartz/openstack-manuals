@@ -19,6 +19,7 @@ System (EFS) does.
 
    shared_file_systems_intro.rst
    shared_file_systems_key_concepts.rst
+   shared_file_systems_install_guide.rst
    shared_file_systems_share_management.rst
    shared_file_systems_manage_shares_cli.rst
    shared_file_systems_share_types.rst

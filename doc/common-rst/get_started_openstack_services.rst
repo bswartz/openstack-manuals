@@ -19,5 +19,6 @@ OpenStack services
    get_started_orchestration.rst
    get_started_database_service.rst
    get_started_sahara.rst
+   get_started_shared_file_systems.rst
 
 This section describes OpenStack services in detail.
